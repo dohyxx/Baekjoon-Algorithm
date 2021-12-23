@@ -25,6 +25,7 @@ public class boj_14 {
 		
 		
 		
+		
 
 		
 		
