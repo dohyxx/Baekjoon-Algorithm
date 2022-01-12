@@ -16,6 +16,7 @@ public class boj_24 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         
         String dial = bf.readLine(); //String
+        bf.close();
         
         // 알파벳은 26개
         int [] time = new int[]{3,3,3,          //ABC
